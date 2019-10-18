@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaicheisi.federiconavarrete.com/sitemap.xml
